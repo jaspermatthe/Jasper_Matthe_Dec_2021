@@ -1,2 +1,0 @@
-The Hylia template under the Jasper_Matthe_Dec_2021 repository on my Git Hub is cloned locally in Documents. It is connected to Netlify and changes are immediately reflected on the 
-website preview once I commit.
